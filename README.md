@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **new Frameworks & Courses**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arshia-163](https://github.com/Arshia-163)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Arshia-163)
 
 - 📫 How to reach me **arshiasharma163@gmail.com**
 
