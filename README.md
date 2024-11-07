@@ -36,3 +36,5 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </a>
 </div>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://gssoc.girlscript.tech/leaderboard?year=24&username=Arshia-163">Gssoc'24 Stats</a></div>
