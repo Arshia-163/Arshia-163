@@ -46,7 +46,7 @@
 
 ### 📊 Most Used Languages
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshia-163&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-163&show_icons=true&locale=en&layout=compact&card_width=500" alt="Top Languages" />
 </p>
 
 ---
@@ -65,16 +65,9 @@
 
 ---
 
-### 🏆 GSSoC’24 Stats
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=24&username=Arshia-163">View My GSSoC'24 Progress</a>
-</p>
-
----
-
 ### ☕ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/your-link-here" target="_blank">
+  <a href="buymeacoffee.com/arshiasharb" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
   </a>
 </p>
