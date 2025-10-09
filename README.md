@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arshia Sharma</h1>
-<h3 align="center">A CSE student with a passion for programming, constantly exploring new tech horizons and building projects to learn and grow.</h3>
+<h3 align="center">A 3rd Year CSE student with a passion for programming, constantly exploring new tech horizons and building projects to learn and grow.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
@@ -25,16 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshia-163&show_icons=true&locale=en" alt="arshia-163" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshia-163&" alt="arshia-163" /></p>
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
- <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</a>
-</div>
+ 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://gssoc.girlscript.tech/leaderboard?year=24&username=Arshia-163">Gssoc'24 Stats</a></div>
