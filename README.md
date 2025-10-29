@@ -60,7 +60,7 @@
 
 ### 🔥 GitHub Streak
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshia-163&" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=arshia-163&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
