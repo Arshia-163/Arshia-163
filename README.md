@@ -45,14 +45,14 @@
 ---
 
 ### 📊 Most Used Languages
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-163&show_icons=true&locale=en&layout=compact&card_width=500" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⚡ GitHub Stats
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshia-163&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
