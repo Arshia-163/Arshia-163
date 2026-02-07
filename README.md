@@ -46,14 +46,14 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-163&show_icons=true&locale=en&layout=compact&card_width=500" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia-163&layout=compact&theme=tokyonight&card_width=500" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshia-163&show_icons=true&locale=en" alt="GitHub Stats" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshia-163&theme=tokyonight" alt="Contribution Graph" width="100%">
 </p>
 
 ---
