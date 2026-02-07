@@ -61,8 +61,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arshia-163" alt="GitHub Streak" /></a>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arshia-163&theme=radical" alt="GitHub Streak">
 </p>
 
 
