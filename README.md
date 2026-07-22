@@ -60,7 +60,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia-163&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arshia-163&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
